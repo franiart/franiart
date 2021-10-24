@@ -1,6 +1,3 @@
-### Hi 👋, I'm Fran
-A passionate illustrator, graphic designer and frontend developer in the process from Venezuela.
-
 - 📫 How to reach me: **trabajos.franiart@gmail.com**
 - ⚡ Fun fact: **Some fungi create zombies, then control their minds**
 
