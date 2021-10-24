@@ -1,5 +1,6 @@
-- 📫 How to reach me?: **trabajos.franiart@gmail.com**
-- ⚡ Fun fact: **Some fungi create zombies, then control their minds**
+- 🌱 I am currently learning from the front-end-stack world.
+- 📫 How to reach me? **trabajos.franiart@gmail.com**
+- ⚡ Fun fact... **Some fungi create zombies, then control their minds**
 
 Connect with me:
 <p align="left">
